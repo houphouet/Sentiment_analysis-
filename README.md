@@ -1,2 +1,1 @@
-# Sentiment_analysis-
-Analysis of amazon customer sentiment
+L'analyse des sentiments est un outil puissant qui permet d'apprécier le comportant d'un individu face à une situation ou un choix. Il permet de connaitre le sentiment éprouvé par le consommateur et permet aux entreprises d'améliorer leurs prestations en vue de fidéliser leurs clients, et de conquérir de nouveaux consommateurs. 
